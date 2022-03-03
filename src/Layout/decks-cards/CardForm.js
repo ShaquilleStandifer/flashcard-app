@@ -40,7 +40,7 @@ function CardForm({ cardFront, handleCardFrontChange, cardBack, handleCardBackCh
         />
       </div>
 
-      button
+      <button>Submit</button>
       </form>    
     </>
   );
